@@ -1,24 +1,60 @@
 
 
 /********* parte de plus do portfolio **********/
+.descTxt{
+    width: 95%;
+    display: inline-block;
+    padding: 0 3% 0 0;
+}
+.boxBtPlus .btPlus:nth-child(2){
+    display: none;
+}
+.boxBtPlus{
+    width: 5%;
+    display: inline;
+}
 .btPlus{
-
+    font-size: 25px;
+    color: #04776d;
+    cursor: pointer;
 }
 .boxDadosPort{
-
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    transition: 0.3s all;
 }
 .dadosPort{
-
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    box-shadow: -5px 5px 10px -5px #c3c3c3;
+    padding: 3%;
+    margin: 1% 0;
+    box-sizing: content-box;
 }
 .dadosPort a{ 
-
+    color: #027b70;
 }
 .tituPort{
-
+    font-size: 20px;
+    font-weight: bold;
+    color: #75757e;
+    margin-bottom: 1%;
 }
 .descPort{
-
+    margin-bottom: 1%;
+    font-size: 15px;
 }
 .linkPort{
-
+    font-size: 12px;
+    color: #027b70;
 }

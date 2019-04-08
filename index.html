@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/style.css" />
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
@@ -22,7 +23,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 		
 		<div class="w3-white w3-text-grey w3-card-4">
 			<div class="w3-display-container">
-			<img src="perfil.jpg" style="width:100%" alt="Avatar">
+			<img src="images/perfil.jpg" style="width:100%" alt="Avatar">
 			<div class="w3-display-bottomleft w3-container w3-text-black" style="width: 100%;background-color: rgba(0, 150, 136, 0.6);">
 				<h2 style="color:white">Luiz Paulo</h2>
 			</div>
@@ -104,39 +105,59 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 			<div class="w3-container">				
 				<h5 class="w3-opacity"><b>Front End Developer / Playerum</b></h5>
 				<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2018 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-				<p>Development of web and mobile applications.</p>
-				<i class="far fa-plus-square btPlus"></i>
-				<div class="boxDadosPort">
-					<div class="dadosPort">
-						<span class="tituPort">App tal</span>
-						<span class="descPort">Essa aplicação eu fiz com o propósito X</span>
-						<a href="#"><span class="linkPort">Link para aplicação (se existir)</span></a>
-					</div>
+				<span class="descTxt">Development of web and mobile applications.</span>
+
+				<div onclick="openPort(0, this)" class="boxBtPlus">
+					<i class="fa fa-plus-square-o btPlus"></i>
+					<i class="fa fa-minus-square-o btPlus"></i>
 				</div>
+				
+				<div id="dadosPort_0" class="boxDadosPort"></div>
 				<hr>
 			</div>
 			<div class="w3-container">
 				<h5 class="w3-opacity"><b>Web Developer / UnASUS/UERJ</b></h5>
 				<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2015 - Dec 2016</h6>
-				<p>Development of pages for distance education (EAD).</p>
+				<span class="descTxt">Development of pages for distance education (EAD).</span>
+				<div onclick="openPort(1, this)" class="boxBtPlus">
+					<i class="fa fa-plus-square-o btPlus"></i>
+					<i class="fa fa-minus-square-o btPlus"></i>
+				</div>
+				<div id="dadosPort_1" class="boxDadosPort"></div>
 				<hr>
 			</div>
 			<div class="w3-container">
 				<h5 class="w3-opacity"><b>Remote Helpdesk / EW Informática</b></h5>
 				<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dec 2014 - Oct 2015</h6>
-				<p>User support, computer maintenance and network control.</p>
+				<span class="descTxt">User support, computer maintenance and network control.</span>
+				<div onclick="openPort(2, this)" class="boxBtPlus">
+					<i class="fa fa-plus-square-o btPlus"></i>
+					<i class="fa fa-minus-square-o btPlus"></i>
+				</div>
+				<div id="dadosPort_2" class="boxDadosPort"></div>
 				<hr>
 			</div>        
 			<div class="w3-container">
 				<h5 class="w3-opacity"><b>Helpdesk / BNSA extrajudicial em expedição</b></h5>
 				<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2012 - Dec 2014</h6>
-				<p>User support, computer maintenance.</p>
+				<span class="descTxt">User support, computer maintenance.</span>
+				<div onclick="openPort(3, this)" class="boxBtPlus">
+					<i class="fa fa-plus-square-o btPlus"></i>
+					<i class="fa fa-minus-square-o btPlus"></i>
+				</div>
+				<div id="dadosPort_3" class="boxDadosPort"></div>
 				<hr>
 			</div>        
 			<div class="w3-container">
 				<h5 class="w3-opacity"><b>Publisher, Web Designer / Mangá Pride Magazine</b></h5>
 				<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2012 - Dec 2016</h6>
-				<p>Picture editor, reviews, reviews in magazine format. Edit banners of various sizes and flyers. Make site and store upgrades.</p><br>
+				<span class="descTxt">Picture editor, reviews, reviews in magazine format. Edit banners of various sizes and flyers. Make site and store upgrades.</span>
+				<div onclick="openPort(4, this)" class="boxBtPlus">
+					<i class="fa fa-plus-square-o btPlus"></i>
+					<i class="fa fa-minus-square-o btPlus"></i>
+				</div>
+				<div id="dadosPort_4" class="boxDadosPort"></div>
+				<br>
 			</div>
 		</div>
 
@@ -185,4 +206,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	</footer>
 
 </body>
+
+<script type="text/javascript" src="js/plusPortfolio.js"></script>
+
 </html>
