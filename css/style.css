@@ -23,7 +23,7 @@
     width: 100%;
     flex-wrap: wrap;
     flex-direction: row;
-    transition: 0.3s all;
+    transition: 0.2s all;
     height: 0;
     overflow: hidden;
 }
