@@ -5,6 +5,11 @@ var paiDeTodosIcons = document.querySelectorAll('.boxBtPlus');
 
 function openPort (n, eleIco){
 
+    
+    paiDeTodosPort.forEach(element => {
+        element.style.height = '0px';
+    });
+
     if (n === nAnterior) {
         document.querySelector('#dadosPort_'+n).innerHTML = '';
         nAnterior = '';
@@ -38,11 +43,11 @@ function openPort (n, eleIco){
     }
 
     pai.innerHTML = tempPort;
-    /*pai.style.height = '130px';
+    pai.style.height = '500px';
 
     setTimeout(function(){
-        pai.style.height = 'auto';
-    }, 300);*/
+        pai.style.height = '100%';
+    }, 305);
 
     nAnterior = n;
 

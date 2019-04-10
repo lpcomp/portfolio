@@ -24,6 +24,8 @@
     flex-wrap: wrap;
     flex-direction: row;
     transition: 0.3s all;
+    height: 0;
+    overflow: hidden;
 }
 .dadosPort{
     display: -webkit-box;
