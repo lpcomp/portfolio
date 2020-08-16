@@ -57,6 +57,34 @@ function openPort (n, eleIco){
 
 var dadosPort = [
     {
+        'localDeTrabalho': 0,
+        'titulo':'Boehringer Ingelheim - Retorno seguro e consciente',
+        'descricao':'Responsável por desenvolver todo o front end da aplicação assim como testes e junção com o sistema LMS da Boehringer.',
+        'link':'',
+        'linkDesc':''
+    },
+    {
+        'localDeTrabalho': 0,
+        'titulo':'GLOBO - Dia Mundial do Meio Ambiente',
+        'descricao':'Responsável por desenvolver parte do front end dos jogos e interface assim como realizar testes da aplicação.',
+        'link':'https://www.linkedin.com/posts/playerum_playerum-comunicacaointerna-meioambiente-activity-6674707646286700544-LQew/',
+        'linkDesc':'Veja a matéria'
+    },
+    {
+        'localDeTrabalho': 0,
+        'titulo':'FQM - Fumasil',
+        'descricao':'Responsável por desenvolver parte do front end em React Native da aplicação.',
+        'link':'https://play.google.com/store/apps/details?id=com.playerum.fumasil',
+        'linkDesc':'Veja a aplicação'
+    },
+    {
+        'localDeTrabalho': 0,
+        'titulo':'Uber - Parceiro da cidadania',
+        'descricao':'Responsável por ajudar na construção front end.',
+        'link':'https://www.uber.com/pt-BR/newsroom/parceiro-da-cidadania-salvador/',
+        'linkDesc':'Veja a matéria'
+    },
+    {
         'localDeTrabalho':0,
         'titulo':'Uber - Desafio cinco estrelas',
         'descricao':'Responsável por ajudar na construção front end do jogo, na programação e integração.',
