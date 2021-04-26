@@ -58,6 +58,13 @@ function openPort (n, eleIco){
 var dadosPort = [
     {
         'localDeTrabalho': 0,
+        'titulo':'Neoenergia - Curso de meio ambiente',
+        'descricao':'Front-end desenvolvido com HTML, CSS e Javascript.',
+        'link':'http://playerdois.com.br/neoenergia/curso2/',
+        'linkDesc':'Acesse o curso'
+    },
+    {
+        'localDeTrabalho': 0,
         'titulo':'Boehringer Ingelheim - Retorno seguro e consciente',
         'descricao':'Responsável por desenvolver todo o front end da aplicação assim como testes e junção com o sistema LMS da Boehringer.',
         'link':'',
