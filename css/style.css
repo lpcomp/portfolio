@@ -1,9 +1,26 @@
+.medium-text {
+    font-size: 0.9rem;
+}
 
+.wrap-text-description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrap-list {
+    padding-left: 8px;
+}
+
+.wrap-social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
 
 /********* parte de plus do portfolio **********/
 .descTxt{
-    width: 95%;
-    display: inline-block;
     padding: 0 3% 0 0;
 }
 .boxBtPlus .btPlus:nth-child(2){
