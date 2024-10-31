@@ -9,8 +9,8 @@ var dadosPort = {
         },
         {
             'titulo':'Facilities - Store / Space',
-            'descricao':'Web-based application in micro frontend architecture, allowing for each component to be used independently outside of the app store that easily integrates with the client’s solutions.',
-            // 'descricao':'Aplicação web com arquitetura de micro frontends, permitindo que cada componente seja utilizado de forma independente fora da loja de aplicativos, integrando-se facilmente às soluções do cliente.',
+            'descricao':'Web-based application in micro front-end architecture, allowing for each component to be used independently outside of the app store that easily integrates with the client’s solutions.',
+            // 'descricao':'Aplicação web com arquitetura de micro front-ends, permitindo que cada componente seja utilizado de forma independente fora da loja de aplicativos, integrando-se facilmente às soluções do cliente.',
             'link':'',
             'linkDesc':''
         },
@@ -36,23 +36,23 @@ var dadosPort = {
         {            
             'titulo':'Boehringer Ingelheim - Safe and mindful return',
             // 'titulo':'Boehringer Ingelheim - Retorno seguro e consciente',
-            'descricao':'Developer in charge of developing the application’s entire front end, as well as testing and integrating with the Boehringer LMS system.',
-            // 'descricao':'Responsável por desenvolver todo o front end da aplicação assim como testes e junção com o sistema LMS da Boehringer.',
+            'descricao':'Developer in charge of developing the application’s entire front-end, as well as testing and integrating with the Boehringer LMS system.',
+            // 'descricao':'Responsável por desenvolver todo o front-end da aplicação assim como testes e junção com o sistema LMS da Boehringer.',
             'link':'',
             'linkDesc':''
         },
         {            
             'titulo':'GLOBO - World Environment Day',
             // 'titulo':'GLOBO - Dia Mundial do Meio Ambiente',
-            'descricao':'In charge of programming part of the games’ and interface’s front end and testing the application.',
-            // 'descricao':'Responsável por desenvolver parte do front end dos jogos e interface assim como realizar testes da aplicação.',
+            'descricao':'In charge of programming part of the games’ and interface’s front-end and testing the application.',
+            // 'descricao':'Responsável por desenvolver parte do front-end dos jogos e interface assim como realizar testes da aplicação.',
             'link':'https://www.linkedin.com/posts/playerum_playerum-comunicacaointerna-meioambiente-activity-6674707646286700544-LQew/',
             'linkDesc':'Check out the article'
             // 'linkDesc':'Veja a matéria'
         },
         {            
             'titulo':'FQM - Fumasil',
-            // 'descricao':'Responsável por desenvolver parte do front end em React Native da aplicação.',
+            // 'descricao':'Responsável por desenvolver parte do front-end em React Native da aplicação.',
             'descricao':'In charge of developing part of the front-end in the web application\'s React Native.',
             'link':'https://play.google.com/store/apps/details?id=com.playerum.fumasil',
             // 'linkDesc':'Veja a aplicação'
@@ -61,7 +61,7 @@ var dadosPort = {
         {            
             // 'titulo':'Uber - Parceiro da cidadania',
             'titulo':'Uber - Partner for good citizenship',
-            // 'descricao':'Responsável por ajudar na construção front end.',
+            // 'descricao':'Responsável por ajudar na construção front-end.',
             'descricao':'In charge of helping build the front-end.',
             'link':'https://www.uber.com/pt-BR/newsroom/parceiro-da-cidadania-salvador/',
             // 'linkDesc':'Veja a matéria'
@@ -70,7 +70,7 @@ var dadosPort = {
         {            
             // 'titulo':'Uber - Desafio cinco estrelas',
             'titulo':'Uber - 5-star Challenge',
-            // 'descricao':'Responsável por ajudar na construção front end do jogo, na programação e integração.',
+            // 'descricao':'Responsável por ajudar na construção front-end do jogo, na programação e integração.',
             'descricao':'In charge of helping build, programm and integrate the game\'s front-end.',
             'link':'https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/128930-uber-lanca-game-melhorar-conduta-motoristas.htm',
             'linkDesc':'Check out the article'
@@ -80,7 +80,7 @@ var dadosPort = {
             'titulo':'Raizen - Master of Security',
             // 'titulo':'Raizen - Mestre de segurança',
             'descricao':'In charge of front-end and integration with the database. Security training for Raizen employees.',
-            // 'descricao':'Reponsável pela parte front end e integração com o banco de dados. Treinamento de segurança voltado para os funcionários da Raizen.',
+            // 'descricao':'Reponsável pela parte front-end e integração com o banco de dados. Treinamento de segurança voltado para os funcionários da Raizen.',
             'link':'https://www.mestredeseguranca.com.br',
             'linkDesc':'Check out the website'
             // 'linkDesc':'Site da plataforma'
@@ -89,7 +89,7 @@ var dadosPort = {
             'titulo':'L\'occitane au Brésil - Parallax Scrolling Website',
             // 'titulo':'L\'occitane au Brésil - Site parallax',
             'descricao':'In charge of developing the front-end part of the website, showing L\'occitane\'s history and product lines in Brazil.',
-            // 'descricao':'Reponsável pela parte front end do site que é constituído pelas linhas da L\'occitane.',
+            // 'descricao':'Reponsável pela parte front-end do site que é constituído pelas linhas da L\'occitane.',
             'link':'http://playerdois.com.br/loccitane/parallax',
             'linkDesc':'Check out the website'
             // 'linkDesc':'Site parallax'
@@ -98,7 +98,7 @@ var dadosPort = {
             'titulo':'L\'occitane au Brésil - Product website',
             // 'titulo':'L\'occitane au Brésil - Site de produtos',
             'descricao':'In charge of developing part of the websites front-end, which comprises a list of L\'occitane\'s products. This website is mostly used as reference and for employee training.',
-            // 'descricao':'Reponsável por uma parte front end do site que é constituído pelos produtos da linha L\'occitane. Esse site é mais usado para consulta e treinamento dos funcionários.',
+            // 'descricao':'Reponsável por uma parte front-end do site que é constituído pelos produtos da linha L\'occitane. Esse site é mais usado para consulta e treinamento dos funcionários.',
             'link':'http://playerdois.com.br/loccitane/memento',
             'linkDesc':'Check out the website'
             // 'linkDesc':'Site dos produtos'
@@ -107,14 +107,14 @@ var dadosPort = {
             'titulo':'Boehringer - Simulator',
             // 'titulo':'Boehringer - Simulador',
             'descricao':'In charge of developing the front-end part of the simulator and integrating with the database. This simulator is mostly used for Boehringer\'s vendor training.',
-            // 'descricao':'Reponsável pela parte front end do simulador e integração com o banco. Esse simulador é usado para treinamento dos vendedores da Boehringer.',
+            // 'descricao':'Reponsável pela parte front-end do simulador e integração com o banco. Esse simulador é usado para treinamento dos vendedores da Boehringer.',
             'link':'http://playerdois.com.br/loccitane/memento',
             'linkDesc':'Check out the website'
             // 'linkDesc':'Site dos produtos'
         }, 
         {            
             'titulo':'CNA - CNA Garden',
-            'descricao':'Web application for CNA student\'s English learning.',
+            'descricao':'Web application for CNA students\' English learning.',
             // 'descricao':'Aplicação web para ensino de inglêns para alunos do CNA.',
             'link':'',
             'linkDesc':''
@@ -146,7 +146,7 @@ var dadosPort = {
     'unasus': [
         {
             'titulo':'UNA-SUS/UERJ - UNA-SUS/UERJ Portal',
-            // 'titulo':'Unasus UERJ - Portal Unsasus UERJ',
+            // 'titulo':'UNA-SUS/UERJ - Portal Unsasus UERJ',
             'descricao':'In charge of developing the website through WordPress and creating doctor training platforms.',
             // 'descricao':'Responsável por desenvolver o site, utilizando juntamente o sistema WordPress e criação de treinamentos para os médicos.',
             'link':'http://unasus.uerj.br',
@@ -155,7 +155,7 @@ var dadosPort = {
         },
         {
             'titulo':'UNA-SUS/UERJ - Ear Simulator',
-            // 'titulo':'Unasus UERJ - Simulador do ouvido (não terminado)',
+            // 'titulo':'UNA-SUS/UERJ - Simulador do ouvido (não terminado)',
             'descricao':'In charge of developing a virtual simulator of the external and internal ear canal structure using Unity, to be used as reference by medical professionals.',
             // 'descricao':'Responsável por desenvolver o simulador no Unity, para ser utilizado para consulta por profissionais da área.',
             'link':'',
