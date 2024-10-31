@@ -28,7 +28,7 @@ var dadosPort = {
             // 'titulo':'Neoenergia - Curso de meio ambiente',
             'descricao':'Front-end built in HTML, CSS, and Javascript.',
             // 'descricao':'Front-end desenvolvido com HTML, CSS e Javascript.',
-            'link':'http://playerdois.com.br/neoenergia/curso2/',
+            'link':'https://playerdois.com.br/neoenergia/curso1/',
             'linkDesc':'Access the course'
             // 'linkDesc':'Acesse o curso'
         
@@ -52,81 +52,112 @@ var dadosPort = {
         },
         {            
             'titulo':'FQM - Fumasil',
-            'descricao':'Responsável por desenvolver parte do front end em React Native da aplicação.',
+            // 'descricao':'Responsável por desenvolver parte do front end em React Native da aplicação.',
+            'descricao':'In charge of developing part of the front-end in the web application\'s React Native.',
             'link':'https://play.google.com/store/apps/details?id=com.playerum.fumasil',
-            'linkDesc':'Veja a aplicação'
+            // 'linkDesc':'Veja a aplicação'
+            'linkDesc':'Check out the application'
         },
         {            
-            'titulo':'Uber - Parceiro da cidadania',
-            'descricao':'Responsável por ajudar na construção front end.',
+            // 'titulo':'Uber - Parceiro da cidadania',
+            'titulo':'Uber - Partner for good citizenship',
+            // 'descricao':'Responsável por ajudar na construção front end.',
+            'descricao':'In charge of helping build the front-end.',
             'link':'https://www.uber.com/pt-BR/newsroom/parceiro-da-cidadania-salvador/',
-            'linkDesc':'Veja a matéria'
+            // 'linkDesc':'Veja a matéria'
+            'linkDesc':'Check out the article'
         },
         {            
-            'titulo':'Uber - Desafio cinco estrelas',
-            'descricao':'Responsável por ajudar na construção front end do jogo, na programação e integração.',
+            // 'titulo':'Uber - Desafio cinco estrelas',
+            'titulo':'Uber - 5-star Challenge',
+            // 'descricao':'Responsável por ajudar na construção front end do jogo, na programação e integração.',
+            'descricao':'In charge of helping build, programm and integrate the game\'s front-end.',
             'link':'https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/128930-uber-lanca-game-melhorar-conduta-motoristas.htm',
-            'linkDesc':'Veja a matéria'
+            'linkDesc':'Check out the article'
+            // 'linkDesc':'Veja a matéria'
         },    
         {            
-            'titulo':'Raizen - Mestre de segurança',
-            'descricao':'Reponsável pela parte front end e integração com o banco de dados. Treinamento de segurança voltado para os funcionários da Raizen.',
+            'titulo':'Raizen - Master of Security',
+            // 'titulo':'Raizen - Mestre de segurança',
+            'descricao':'In charge of front-end and integration with the database. Security training for Raizen employees.',
+            // 'descricao':'Reponsável pela parte front end e integração com o banco de dados. Treinamento de segurança voltado para os funcionários da Raizen.',
             'link':'https://www.mestredeseguranca.com.br',
-            'linkDesc':'Site da plataforma'
+            'linkDesc':'Check out the website'
+            // 'linkDesc':'Site da plataforma'
         },  
         {            
-            'titulo':'L\'occitane au Brésil - Site parallax',
-            'descricao':'Reponsável pela parte front end do site que é constituído pelas linhas da L\'occitane.',
+            'titulo':'L\'occitane au Brésil - Parallax Scrolling Website',
+            // 'titulo':'L\'occitane au Brésil - Site parallax',
+            'descricao':'In charge of developing the front-end part of the website, showing L\'occitane\'s history and product lines in Brazil.',
+            // 'descricao':'Reponsável pela parte front end do site que é constituído pelas linhas da L\'occitane.',
             'link':'http://playerdois.com.br/loccitane/parallax',
-            'linkDesc':'Site parallax'
+            'linkDesc':'Check out the website'
+            // 'linkDesc':'Site parallax'
         }, 
         {            
-            'titulo':'L\'occitane au Brésil - Site de produtos',
-            'descricao':'Reponsável por uma parte front end do site que é constituído pelos produtos da linha L\'occitane. Esse site é mais usado para consulta e treinamento dos funcionários.',
+            'titulo':'L\'occitane au Brésil - Product website',
+            // 'titulo':'L\'occitane au Brésil - Site de produtos',
+            'descricao':'In charge of developing part of the websites front-end, which comprises a list of L\'occitane\'s products. This website is mostly used as reference and for employee training.',
+            // 'descricao':'Reponsável por uma parte front end do site que é constituído pelos produtos da linha L\'occitane. Esse site é mais usado para consulta e treinamento dos funcionários.',
             'link':'http://playerdois.com.br/loccitane/memento',
-            'linkDesc':'Site dos produtos'
+            'linkDesc':'Check out the website'
+            // 'linkDesc':'Site dos produtos'
         }, 
         {            
-            'titulo':'Boehringer - Simulador',
-            'descricao':'Reponsável pela parte front end do simulador e integração com o banco. Esse simulador é usado para treinamento dos vendedores da Boehringer.',
+            'titulo':'Boehringer - Simulator',
+            // 'titulo':'Boehringer - Simulador',
+            'descricao':'In charge of developing the front-end part of the simulator and integrating with the database. This simulator is mostly used for Boehringer\'s vendor training.',
+            // 'descricao':'Reponsável pela parte front end do simulador e integração com o banco. Esse simulador é usado para treinamento dos vendedores da Boehringer.',
             'link':'http://playerdois.com.br/loccitane/memento',
-            'linkDesc':'Site dos produtos'
+            'linkDesc':'Check out the website'
+            // 'linkDesc':'Site dos produtos'
         }, 
         {            
             'titulo':'CNA - CNA Garden',
-            'descricao':'Aplicação web para ensino de inglêns para alunos do CNA.',
+            'descricao':'Web application for CNA student\'s English learning.',
+            // 'descricao':'Aplicação web para ensino de inglêns para alunos do CNA.',
             'link':'',
             'linkDesc':''
         },  
         {            
             'titulo':'CNA - Level Up',
-            'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos professores do CNA.',
+            'descricao':'Web application integrated with SCORM (LMS) for teacher training.',
+            // 'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos professores do CNA.',
             'link':'',
             'linkDesc':''
         }, 
         {            
-            'titulo':'CNA - Tecnicas de vendas',
-            'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos funcionários do CNA.',
+            'titulo':'CNA - Sales Techniques',
+            // 'titulo':'CNA - Tecnicas de vendas',
+            'descricao':'Web application integrated with SCORM (LMS) for employee training.',
+            // 'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos funcionários do CNA.',
             'link':'',
             'linkDesc':''
         }, 
         {            
-            'titulo':'Ri Happy - Treinamento',
-            'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos funcionários da Ri Happy.',
+            'titulo':'Ri Happy - Training',
+            // 'titulo':'Ri Happy - Treinamento',
+            'descricao':'Web application integrated with SCORM (LMS) for employee training.',
+            // 'descricao':'Aplicação web integrada com SCORM (LMS) para treinamento dos funcionários da Ri Happy.',
             'link':'',
             'linkDesc':''
         },  
     ],
     'unasus': [
         {
-            'titulo':'Unasus UERJ - Portal Unsasus UERJ',
-            'descricao':'Responsável por desenvolver o site, utilizando juntamente o sistema WordPress e criação de treinamentos para os médicos.',
+            'titulo':'UNA-SUS/UERJ - UNA-SUS/UERJ Portal',
+            // 'titulo':'Unasus UERJ - Portal Unsasus UERJ',
+            'descricao':'In charge of developing the website through WordPress and creating doctor training platforms.',
+            // 'descricao':'Responsável por desenvolver o site, utilizando juntamente o sistema WordPress e criação de treinamentos para os médicos.',
             'link':'http://unasus.uerj.br',
-            'linkDesc':'Site da instituição'
+            'linkDesc':'Check out the website'
+            // 'linkDesc':'Site da instituição'
         },
         {
-            'titulo':'Unasus UERJ - Simulador do ouvido (não terminado)',
-            'descricao':'Responsável por desenvolver o simulador no Unity, para ser utilizado para consulta por profissionais da área.',
+            'titulo':'UNA-SUS/UERJ - Ear Simulator',
+            // 'titulo':'Unasus UERJ - Simulador do ouvido (não terminado)',
+            'descricao':'In charge of developing a virtual simulator of the external and internal ear canal structure using Unity, to be used as reference by medical professionals.',
+            // 'descricao':'Responsável por desenvolver o simulador no Unity, para ser utilizado para consulta por profissionais da área.',
             'link':'',
             'linkDesc':''
         }

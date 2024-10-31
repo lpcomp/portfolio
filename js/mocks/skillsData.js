@@ -1,18 +1,22 @@
 var skillsData = {
     'languages': {
-        title: 'Linguagens de programação',
+        title: 'Languages',
+        // title: 'Linguagens de programação',
         skills: ['JavaScript', 'TypeScript', 'PHP', 'C#']
     },
     'frontEndLibs': {
-        title: 'Bibliotecas e Frameworks de Front-end',
+        title: 'Front-end Libraries and Frameworks',
+        // title: 'Bibliotecas e Frameworks de Front-end',
         skills: ['React JS', 'Context API', 'Styled-components', 'Material UI', 'AntD', 'React Testing Library', 'Jest', 'Next JS', 'JQuery', 'Bootstrap', 'Gatsby', 'Strapi']
     },
     'frontEndTools': {
-        title: 'Ferramentas e Tecnologias  Front-end',
+        title: 'Front-end Tools and Technologies',
+        // title: 'Ferramentas e Tecnologias  Front-end',
         skills: ['HTML', 'CSS', 'WordPress']
     },
     'mobileDevelopment': {
-        title: 'Desenvolvimento Mobile',
+        title: 'Mobile App Development',
+        // title: 'Desenvolvimento Mobile',
         skills: ['React Native']
     },
     'backEnd': {
@@ -20,15 +24,18 @@ var skillsData = {
         skills: ['Node JS']
     },
     'projectManagement': {
-        title: 'Gerenciamento de Projetos',
+        title: 'Project Management',
+        // title: 'Gerenciamento de Projetos',
         skills: ['Kanban', 'Scrum']
     },
     'projectVersioning': {
-        title: 'Versionamento de projetos',
+        title: 'Version Control',
+        // title: 'Versionamento de projetos',
         skills: ['Git']
     },
     'others': {
-        title: 'Outros',
-        skills: ['Gamificação', 'Moodle', 'SCORM', 'Unity']
+        title: 'Other',
+        // title: 'Outros',
+        skills: ['Gamification', 'Moodle', 'SCORM', 'Unity']
     },
 };
